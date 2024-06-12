@@ -33,6 +33,7 @@ Go to :
 
 ## Screenshots
 
+
 ### Main page searching for plane
 ![screenshot 1](docs/images/screenshot_1.jpg)
 ### Main page plane discovered
