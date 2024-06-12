@@ -16,7 +16,7 @@ Fria is the final project in the university of Aix Marseille.
 
 ## Features
 - Measuring real world  location
-- Searching furniture with  maximum measumrent # not completed
+- Searching furniture with  maximum measumrent 
 - Placing 3D model of <b>real furnitures!</b>  at home
 - Taking picture/ vidoe of model at your home
 
